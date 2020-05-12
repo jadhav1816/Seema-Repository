@@ -1,2 +1,0 @@
-# Seema-Repository
-Python code
